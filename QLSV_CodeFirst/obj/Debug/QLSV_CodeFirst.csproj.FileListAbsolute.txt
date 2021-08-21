@@ -1,0 +1,16 @@
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\bin\Debug\QLSV_CodeFirst.exe.config
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\bin\Debug\QLSV_CodeFirst.exe
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\bin\Debug\QLSV_CodeFirst.pdb
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\obj\Debug\QLSV_CodeFirst.csproj.AssemblyReference.cache
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\obj\Debug\QLSV_CodeFirst.Properties.Resources.resources
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\obj\Debug\QLSV_CodeFirst.csproj.GenerateResource.cache
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\obj\Debug\QLSV_CodeFirst.csproj.CoreCompileInputs.cache
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\obj\Debug\QLSV_CodeFirst.exe
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\obj\Debug\QLSV_CodeFirst.pdb
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\bin\Debug\EntityFramework.dll
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\bin\Debug\EntityFramework.xml
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\obj\Debug\QLSV_CodeFirst.csproj.CopyComplete
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\obj\Debug\QLSV_CodeFirst.GUI.Form1.resources
+E:\Practice\K2N2\dotnet\QLSV_CodeFirst\QLSV_CodeFirst\obj\Debug\QLSV_CodeFirst.GUI.Form2.resources
